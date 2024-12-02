@@ -1,0 +1,2701 @@
+fileFormatVersion: 2
+guid: 3b8f934cb60bc184c96f6a2afa46a253
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Metal Buttons Text_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de0b9aec712e1547acba4cc60c8b6c1
+      internalID: 1212150682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 385
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7402fd85a6d07d949bfcbf4036082a40
+      internalID: -1483697705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 385
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33298293c0c542142af5fadede96a270
+      internalID: -1523238092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 385
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c6572ca438fa14f9846bea62705c54
+      internalID: 1179727852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 385
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c7ffc4a8f38194e872aaee450030bf
+      internalID: -71354489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 385
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3415ce3342b3147baaff81e4fc5f6b
+      internalID: -1498286327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 385
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c1cdcb7a987f84aa8b75c1d9b2c71d
+      internalID: -1151857110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 385
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56e7c3d38519d24b98c1134c146447b
+      internalID: 1251118030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_8
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 385
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238b8012e5ba7924287e27fca3f5057c
+      internalID: 681668276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 353
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bf094b5a4e2d84cb04942c0a52a86f
+      internalID: 2143564450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 353
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8abddbb7819374ea7742a8d8eb92eb
+      internalID: 671355267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 353
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c33fd75c65aa741b4f42aaf9b6b023
+      internalID: 978278743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 353
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5557c8cef79abf94284501395481f86a
+      internalID: 74216449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 353
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e7a1db719f28e4c99a5ab2a623d3e7
+      internalID: -1135756117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_14
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 353
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae38adfada5d2748ba24c4ebd9c0159
+      internalID: 943509080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_15
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 353
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cab9e972e40e71448fa5615675f6613
+      internalID: 1274761293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_16
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 353
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f67bb1f18befa748979e3a57b8afdf2
+      internalID: -1061494568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 353
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a99d44590565364fbc0983e6c261b9c
+      internalID: -551965783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628f82a71d51f4a4487e1cc024952e11
+      internalID: 2080533769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 321
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df3f635f0460d244aac80be0c16a297
+      internalID: 40947760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 321
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c56c06da3c4bc24093f166502b7b2d3
+      internalID: -1344321262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 321
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1574ca3fa7ab64992624f86098572b
+      internalID: 974189077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_22
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 321
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666f0755ce27d53478a5cae36cab80b0
+      internalID: -372575489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 321
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4289d42e9c60ee244a300cfc00262c91
+      internalID: 1768638521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_24
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 321
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cd382e46dc91e4a987297091e8f061
+      internalID: 1947273905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_25
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 321
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c804e877daec38741aee6a08aa2c1027
+      internalID: -1281913210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_26
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 321
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1618bf0c6745d8419021b1715ac90bb
+      internalID: -1012207585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ea9a60c9aa3794e8bd8e452f899859
+      internalID: -918771852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 289
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffe1a5cf38a53240925221f131bbffe
+      internalID: -1029641998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_29
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ad799a86993ad47aab6061a5c6cbc1
+      internalID: -224696265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 289
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804bbd429dcf1564d8705472a9bab674
+      internalID: 911663786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 289
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf891f1dd3c12244935b7925caf2951
+      internalID: 91443458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_32
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 289
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064e4243bd953c043a096d6d4fc6fd4b
+      internalID: 1255461336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_33
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 289
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1e14bcf625f2541b7060fb7aaff21e
+      internalID: -1460506385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_34
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 289
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66c7f45822144a42bba1daa92ba858e
+      internalID: -1061556137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_35
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 289
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba1035f59edcf7419e3bdb56b44f18e
+      internalID: 1317007673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49986cb3bdc03ac499203a7a3aebd6b4
+      internalID: -20599071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_37
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 257
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481eaaedc0eded94bb408712f4ce67ff
+      internalID: 40984648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 257
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e619021a0cc6264bb569b1f8ab224e8
+      internalID: -945517886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 257
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da439c77cb8d39c4681dc529fbcffd39
+      internalID: -647995852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_40
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 257
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c241b9dd72ee14542b74c12bb44d907d
+      internalID: -691868350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_41
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 257
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0037fe01a68f64142bc1db872b6c489b
+      internalID: 597288738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_42
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 257
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d1c7a1af269b74083ff3329368858b
+      internalID: -727830868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_43
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 257
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f906383344c6fbe4f832ea720ec491e3
+      internalID: 1933050228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_44
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 257
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45501c06082c798439d997abe9eafdf1
+      internalID: 919855653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 225
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b63e3764bff6cb42b28470db428d7a5
+      internalID: 1399499343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 225
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70f4fe75b5b0714eb6045cbab6abf69
+      internalID: 1102928842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_47
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 225
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2060c831b58c7a944ac616e3918f516a
+      internalID: 1156963276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_48
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 225
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132cde1afdafdf946b98cce83aa23bd6
+      internalID: -2050072001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_49
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 225
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdc11a4200a585439efa351ec040c5e
+      internalID: -669574843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_50
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 225
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e96fcb748fe4e44c9055d265440d47f
+      internalID: 2046277532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_51
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 225
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e500fc80e6e403743b295028536ae926
+      internalID: 718404170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_52
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 225
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c91eb67ea195b489f8dc708bb6948b
+      internalID: 962970437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_53
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 225
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e2659498a75744ab15dae7c09e440f
+      internalID: -376897924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c471929ec21b7ac4c873d3c66b94dc65
+      internalID: -2051205062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_55
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f062781ad867843bb11dc9ed64c806
+      internalID: -2018825677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_56
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 193
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8daff528ee601744b4f500cba81f254
+      internalID: -1088669682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_57
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae3471aca0e7674d80e21aabee89757
+      internalID: -1482472978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_58
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06dd68ce5e2e1f428a372be74dcc0cf
+      internalID: 1628223224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_59
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 193
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff228320d9557340aa11d0b91841fbb
+      internalID: 690650271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_60
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 193
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cddc972de357fa4fa0d4464a58f105b
+      internalID: -1969678287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_61
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 193
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7208d1c142f88344b0109179e70e1dd
+      internalID: 1930000835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_62
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 193
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4b6de906b65aa47bef3d79d826cc29
+      internalID: -1369087767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd50b03913edd0a4a98a15702f64303a
+      internalID: -1694313160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_64
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 161
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acb75af919ea014ab9b94538744e109
+      internalID: -121905214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_65
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 161
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ac9059149d4e74b8e15987767c9d7c
+      internalID: 1895298018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_66
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 161
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f74bf32acba3b4eb0976018d0c44c6
+      internalID: 757711537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_67
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 161
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7176f086259831643ad2e9356d952650
+      internalID: -1721674216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_68
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 161
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7c4abc75ca6534d96504f50e48b2bb
+      internalID: -2099027949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_69
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 161
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c45c32a9b34ea4cb1285c553755a29
+      internalID: -347161992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_70
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 161
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdc369e886cc0d46a94f3f0b43100f2
+      internalID: -102673155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_71
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 161
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a1ded4ad8279f46b830c6478b2f8e9
+      internalID: 192481173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7364c94b30b984ba7426dc8554007f
+      internalID: 1786952710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_73
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c73dd34df2efd8418278bd23d324c2e
+      internalID: 1229413687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_74
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f2f8bc0f61ba74a8da9f90f0cfc3fb
+      internalID: 711406305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_75
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 129
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b283b62271403418b8d6382612101d
+      internalID: 349027500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_76
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 129
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c8f654463dfb448aaec8dc2fe7ea7a
+      internalID: -937537613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_77
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 129
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fd2e7398cc9594eb734dd5da0e16a5
+      internalID: 1979704832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_78
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 129
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca4391a824fc5542bc8f892e72de29c
+      internalID: 1970334028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_79
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 129
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9c6a87cd423df40a36e3f443c9c8a8
+      internalID: 320289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_80
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 129
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f03319edfbaec438dfd1dfb507db85
+      internalID: -1769077455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5e7f39da360944a938e44d6975bacb
+      internalID: 402609950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_82
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 97
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3512e118eb1fb4f41993bbe60e27a76a
+      internalID: 1832151540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_83
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2d15f504ccb8946be6e71d656ccdb2
+      internalID: 2018186657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_84
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 97
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1d3510e8bbc2b4a97420547794a9ab
+      internalID: 1017577155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_85
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 97
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c352861d045fa4597f8d3b8cea7532
+      internalID: -1934132985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_86
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 97
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274e0c0ac9a5ec94880f499815f95de6
+      internalID: -664005233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_87
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 97
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ff30a1d2587834faaafecbbecbe4ad
+      internalID: 93434746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_88
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 97
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89acebd393333a847b178969561ff562
+      internalID: -859364841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_89
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 97
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac68518c30585804e91156526b34d699
+      internalID: -1517461503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e74fe5c4929924d87b827e0192d1bd
+      internalID: -2061550049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_91
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c578330b763b18469bd9f944bb7b17c
+      internalID: 1172851147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_92
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a158097ae9a6bb84ba5d82c4df122c82
+      internalID: -1727456010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_93
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f37da9168bf9441b14d5b389def5ac
+      internalID: 358409224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_94
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf6302455478dc41abb0b5358ed0d31
+      internalID: -776026254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_95
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 65
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743c679f77f477341a4a478f73e30ba0
+      internalID: 809120142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_96
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 65
+        width: 110
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662fb31faddbba74c8b454330516bbf9
+      internalID: -1174731112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_97
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 65
+        width: 110
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f48aab11f162846b8e50341bfb62dc
+      internalID: -1713143825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_98
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 65
+        width: 110
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0f671ea4c296a40974704fa1a3f29c
+      internalID: -1093921070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545489a1f7c95ad45b6cc30aed2c8bc0
+      internalID: -1493058839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_100
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0df71ad2ccc32a4dac839efa7c882e2
+      internalID: -781702763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_101
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9e901ae26c084479881b1cc7f2d2fb
+      internalID: -934327329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_102
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 33
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1a53bf878b1ce45bbf531eb2c3aabd
+      internalID: 213813891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_103
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 33
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f2c4f5d93e5e646a343c4e4d9f0cc7
+      internalID: 1675677000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_104
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 33
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363d6003eb83ef341bfc70d0f056fab9
+      internalID: -1859350837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_105
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 33
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f98eee5086f634a861f85fd1af29cf
+      internalID: 836894522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_106
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 33
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aba51054e9e394e8f7deb9dc0f4ba2
+      internalID: 698707366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_107
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 33
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d0474b19b18b54d9fe01e078cc4124
+      internalID: -1469525027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eed270d0293814183e1a629f56a52e
+      internalID: -286424673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_109
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6490fb6be3f4b4f9136fd551938aac
+      internalID: -180342955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_110
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27d04dd6a059c940904437982541f19
+      internalID: 1365192693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_111
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88496c5da9d2d849863b1ceed460e18
+      internalID: 245527757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_112
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2496a959a720dfb41b7ea0861d6fa85c
+      internalID: -251944564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_113
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5e94adc45f6b842bee9420cb670a4e
+      internalID: -2096962074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_114
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3b2375850bd994894a91e1ba7a610d
+      internalID: 1891146771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_115
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c10a5c18433d424c8aab0a16cc5f892
+      internalID: -2038799942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Buttons Text_116
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8b20e7f55ff5b4ca439ae2217d33af
+      internalID: -638015679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Metal Buttons Text_0: 1212150682
+      Metal Buttons Text_1: -1483697705
+      Metal Buttons Text_10: 671355267
+      Metal Buttons Text_100: -781702763
+      Metal Buttons Text_101: -934327329
+      Metal Buttons Text_102: 213813891
+      Metal Buttons Text_103: 1675677000
+      Metal Buttons Text_104: -1859350837
+      Metal Buttons Text_105: 836894522
+      Metal Buttons Text_106: 698707366
+      Metal Buttons Text_107: -1469525027
+      Metal Buttons Text_108: -286424673
+      Metal Buttons Text_109: -180342955
+      Metal Buttons Text_11: 978278743
+      Metal Buttons Text_110: 1365192693
+      Metal Buttons Text_111: 245527757
+      Metal Buttons Text_112: -251944564
+      Metal Buttons Text_113: -2096962074
+      Metal Buttons Text_114: 1891146771
+      Metal Buttons Text_115: -2038799942
+      Metal Buttons Text_116: -638015679
+      Metal Buttons Text_12: 74216449
+      Metal Buttons Text_13: -1135756117
+      Metal Buttons Text_14: 943509080
+      Metal Buttons Text_15: 1274761293
+      Metal Buttons Text_16: -1061494568
+      Metal Buttons Text_17: -551965783
+      Metal Buttons Text_18: 2080533769
+      Metal Buttons Text_19: 40947760
+      Metal Buttons Text_2: -1523238092
+      Metal Buttons Text_20: -1344321262
+      Metal Buttons Text_21: 974189077
+      Metal Buttons Text_22: -372575489
+      Metal Buttons Text_23: 1768638521
+      Metal Buttons Text_24: 1947273905
+      Metal Buttons Text_25: -1281913210
+      Metal Buttons Text_26: -1012207585
+      Metal Buttons Text_27: -918771852
+      Metal Buttons Text_28: -1029641998
+      Metal Buttons Text_29: -224696265
+      Metal Buttons Text_3: 1179727852
+      Metal Buttons Text_30: 911663786
+      Metal Buttons Text_31: 91443458
+      Metal Buttons Text_32: 1255461336
+      Metal Buttons Text_33: -1460506385
+      Metal Buttons Text_34: -1061556137
+      Metal Buttons Text_35: 1317007673
+      Metal Buttons Text_36: -20599071
+      Metal Buttons Text_37: 40984648
+      Metal Buttons Text_38: -945517886
+      Metal Buttons Text_39: -647995852
+      Metal Buttons Text_4: -71354489
+      Metal Buttons Text_40: -691868350
+      Metal Buttons Text_41: 597288738
+      Metal Buttons Text_42: -727830868
+      Metal Buttons Text_43: 1933050228
+      Metal Buttons Text_44: 919855653
+      Metal Buttons Text_45: 1399499343
+      Metal Buttons Text_46: 1102928842
+      Metal Buttons Text_47: 1156963276
+      Metal Buttons Text_48: -2050072001
+      Metal Buttons Text_49: -669574843
+      Metal Buttons Text_5: -1498286327
+      Metal Buttons Text_50: 2046277532
+      Metal Buttons Text_51: 718404170
+      Metal Buttons Text_52: 962970437
+      Metal Buttons Text_53: -376897924
+      Metal Buttons Text_54: -2051205062
+      Metal Buttons Text_55: -2018825677
+      Metal Buttons Text_56: -1088669682
+      Metal Buttons Text_57: -1482472978
+      Metal Buttons Text_58: 1628223224
+      Metal Buttons Text_59: 690650271
+      Metal Buttons Text_6: -1151857110
+      Metal Buttons Text_60: -1969678287
+      Metal Buttons Text_61: 1930000835
+      Metal Buttons Text_62: -1369087767
+      Metal Buttons Text_63: -1694313160
+      Metal Buttons Text_64: -121905214
+      Metal Buttons Text_65: 1895298018
+      Metal Buttons Text_66: 757711537
+      Metal Buttons Text_67: -1721674216
+      Metal Buttons Text_68: -2099027949
+      Metal Buttons Text_69: -347161992
+      Metal Buttons Text_7: 1251118030
+      Metal Buttons Text_70: -102673155
+      Metal Buttons Text_71: 192481173
+      Metal Buttons Text_72: 1786952710
+      Metal Buttons Text_73: 1229413687
+      Metal Buttons Text_74: 711406305
+      Metal Buttons Text_75: 349027500
+      Metal Buttons Text_76: -937537613
+      Metal Buttons Text_77: 1979704832
+      Metal Buttons Text_78: 1970334028
+      Metal Buttons Text_79: 320289
+      Metal Buttons Text_8: 681668276
+      Metal Buttons Text_80: -1769077455
+      Metal Buttons Text_81: 402609950
+      Metal Buttons Text_82: 1832151540
+      Metal Buttons Text_83: 2018186657
+      Metal Buttons Text_84: 1017577155
+      Metal Buttons Text_85: -1934132985
+      Metal Buttons Text_86: -664005233
+      Metal Buttons Text_87: 93434746
+      Metal Buttons Text_88: -859364841
+      Metal Buttons Text_89: -1517461503
+      Metal Buttons Text_9: 2143564450
+      Metal Buttons Text_90: -2061550049
+      Metal Buttons Text_91: 1172851147
+      Metal Buttons Text_92: -1727456010
+      Metal Buttons Text_93: 358409224
+      Metal Buttons Text_94: -776026254
+      Metal Buttons Text_95: 809120142
+      Metal Buttons Text_96: -1174731112
+      Metal Buttons Text_97: -1713143825
+      Metal Buttons Text_98: -1093921070
+      Metal Buttons Text_99: -1493058839
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
